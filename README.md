@@ -6,4 +6,4 @@
 * Created the Git repository.
 * Learned the basics of [Markdown](https://www.markdownguide.org/basic-syntax/#links) syntax.
 * Learned to work with branches and make pull-requests.
-* Created my Git Shortlist.
+* Created my [Git Shortlist](https://github.com/dankor1498/kottans-backend/blob/master/GitShortlist.md).
