@@ -64,6 +64,8 @@
 
 **HEAD~** Вказує на перший батьківський коміт.
 
+**clear** Очистити консоль.
+
 **.gitignore** Файл для файлів що будуть ігноруватись:
 - blank lines can be used for spacing
 - \# - marks line as a comment
