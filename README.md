@@ -11,3 +11,7 @@
 * Learned basic bash commands.
 * Added my [Bash Shortlist](https://github.com/dankor1498/kottans-backend/blob/master/task_unix_shell/BashShortlist.pdf).
 * Started to use bash commands in my terminal.
+#### 3. [Git for Team Collaboration](https://github.com/kottans/backend/blob/master/tasks/git-collaboration.md).
+* Learned the basics of working with GitHub.
+* Updated my [Git Shortlist](https://github.com/dankor1498/kottans-backend/blob/master/GitShortlist.md).
+
